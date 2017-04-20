@@ -1,0 +1,55 @@
+View all detail.
+https://graph.facebook.com/me/?access_token=[Access-Token]
+
+Comment on Facebook.
+https://graph.facebook.com/[Post-ID]/comments?method=POST&message=[Msg]&access_token=[Access-Token]
+
+Likes a page.
+https://graph.facebook.com/me/likes?access_token=[Access-Token]&method=POST&url=[Pages-Link]
+
+Add friends.
+https://graph.facebook.com/me/friends?uid=[Facebook-ID]&access_token=[Access-Token]&method=post
+
+Post images to timeline.
+https://graph.facebook.com/me/photos?url=[Images-Url]&message=[Msg]&method=POST&access_token=[Access-Token]
+
+Post messages to the group.
+https://graph.facebook.com/[Group-ID]/feed?method=POST&message=[Msg]&access_token=[Access-Token]
+
+Post messages to timeline.
+https://graph.facebook.com/me/feed?method=POST&message=[Msg]&access_token=[Access-Token]
+
+View inbox.
+https://graph.facebook.com/me/inbox?access_token=[Access-Token]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
