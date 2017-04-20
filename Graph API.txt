@@ -21,35 +21,3 @@ https://graph.facebook.com/me/feed?method=POST&message=[Msg]&access_token=[Acces
 
 View inbox.
 https://graph.facebook.com/me/inbox?access_token=[Access-Token]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
